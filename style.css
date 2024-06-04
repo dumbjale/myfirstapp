@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+  }
+  body{
+    background-color: rgba(104, 255, 119, 0.612);
+  }
+  .box{
+    background-color: white;
+    width: 350px;
+    height: 350px;
+    border: 5px solid white;
+    margin: 300px 600px 300px 650px;
+    padding:  30px;
+    
+
+  }
+.container{
+ width: 80px;;
+ height: 80px;
+  
+  
+}
+form{
+   width: 80px;
+   height: 40px;
+    margin: 15px ;
+
+    #text{
+        
+        width: 250px;
+        height: 40px;
+
+       
+        margin-bottom: 10px;
+        
+        background-color:rgb(213, 220, 220); ;
+    }
+    }
+    #password{
+        width: 250px;
+        height: 40px;
+        
+        margin-bottom: 20px;
+        background-color:rgb(213, 220, 220); ;
+    }
+    #submit{
+        height: 40px;
+        width: 250px;
+        margin-bottom: 40px;
+
+        background-color: rgb(64, 208, 64);
+    }
+   .register-link{
+    margin-top: 100px;
+    margin-left: 50px;
+    
+   }
+   #a{
+    color: rgb(69, 204, 159);
+   }
